@@ -85,7 +85,7 @@ const FILE_SUFFIXES_BY_ICON_KEY: &[(&str, &[&str])] = &[
     ("coffeescript", &["coffee"]),
     (
         "cpp",
-        &["c++", "cc", "cpp", "cxx", "hh", "hpp", "hxx", "inl", "ixx"],
+        &["c++", "cc", "cpp", "cxx", "hh", "hpp", "hxx", "inl", "ixx", "tpp"],
     ),
     ("crystal", &["cr", "ecr"]),
     ("csharp", &["cs"]),
